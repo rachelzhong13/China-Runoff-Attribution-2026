@@ -1,0 +1,102 @@
+{
+  "status": "PASS",
+  "endnote_fields": {
+    "source_cites": 32,
+    "main_cites": 32,
+    "source_reflist": 1,
+    "main_reflist": 1,
+    "source_begins": 33,
+    "main_begins": 33,
+    "source_ends": 33,
+    "main_ends": 33
+  },
+  "custom_xml_parts": 3,
+  "custom_xml_unchanged": true,
+  "embedded_figures_match_exports": true,
+  "main_table_rows_checked": 5,
+  "supplement_tables": 5,
+  "supplement_figures": 1,
+  "pdfs": {
+    "main": {
+      "pages": 29,
+      "minimum_page_text_characters": 2
+    },
+    "supplement": {
+      "pages": 4,
+      "minimum_page_text_characters": 1566
+    }
+  },
+  "table_1_page": 21,
+  "table_s5_page": 4,
+  "figure_caption_pages": {
+    "1": [
+      6
+    ],
+    "2": [
+      7,
+      8
+    ],
+    "3": [
+      10,
+      11
+    ],
+    "4": [
+      15
+    ],
+    "5": [
+      16
+    ],
+    "6": [
+      16
+    ],
+    "7": [
+      18
+    ]
+  },
+  "equation_pages": {
+    "1": [
+      6
+    ],
+    "2": [
+      8
+    ],
+    "3": [
+      9,
+      10,
+      13
+    ],
+    "4": [
+      11
+    ],
+    "5": [
+      11
+    ],
+    "6": [
+      12
+    ],
+    "7": [
+      12
+    ],
+    "8": [
+      13
+    ]
+  },
+  "forbidden_counts": {
+    "[CITATION NEEDED]": 0,
+    "[MEANING CHECK]": 0,
+    "available files do not": 0,
+    "requires author verification": 0,
+    "project-review files": 0,
+    "before submission": 0,
+    "Codex": 0,
+    "correlation analysis": 0,
+    "Mean_SCI": 0,
+    "32.4%": 0,
+    "36.9%": 0,
+    "34.9%": 0,
+    "1,460 have all seven paired models": 0,
+    "pooled DIndex values from 0.645 to 0.840": 0,
+    "pooled drought DIndex is 0.491": 0,
+    "[repository and persistent identifier": 0
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "mainland_grid_count": 3823,
+  "model_count": 7,
+  "basin_names": [
+    "CSL",
+    "PSE",
+    "SWRB",
+    "YHH",
+    "YZR"
+  ],
+  "mapped_basin_grid_count": 3823,
+  "max_abs_per_model_additivity_residual": 3.552713678800501e-15,
+  "max_abs_basin_additivity_residual": 2.706168622523819e-16
+}

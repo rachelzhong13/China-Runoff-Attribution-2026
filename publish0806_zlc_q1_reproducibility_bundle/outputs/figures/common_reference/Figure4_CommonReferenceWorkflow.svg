@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="522.432pt" height="307.224pt" viewBox="0 0 522.432 307.224" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-08-18T19:27:15.328359</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.7, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 307.224 
+L 522.432 307.224 
+L 522.432 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 20.408832 162.982368 
+L 99.661824 162.982368 
+Q 108.8064 162.982368 108.8064 157.711536 
+L 108.8064 29.454624 
+Q 108.8064 24.183792 99.661824 24.183792 
+L 20.408832 24.183792 
+Q 11.264256 24.183792 11.264256 29.454624 
+L 11.264256 157.711536 
+Q 11.264256 162.982368 20.408832 162.982368 
+z
+" clip-path="url(#p584fb825a1)" style="fill: #f8fafc; stroke: #2f6f9f; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 107.754119 93.58308 
+Q 110.328406 93.58308 111.78466 93.58308 
+" clip-path="url(#p584fb825a1)" style="fill: none; stroke: #56636f; stroke-linecap: round"/>
+    <path d="M 107.78466 91.58308 
+L 111.78466 93.58308 
+L 107.78466 95.58308 
+z
+" clip-path="url(#p584fb825a1)" style="fill: #56636f; stroke: #56636f; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 120.999168 162.982368 
+L 200.25216 162.982368 
+Q 209.396736 162.982368 209.396736 157.711536 
+L 209.396736 29.454624 
+Q 209.396736 24.183792 200.25216 24.183792 
+L 120.999168 24.183792 
+Q 111.854592 24.183792 111.854592 29.454624 
+L 111.854592 157.711536 
+Q 111.854592 162.982368 120.999168 162.982368 
+z
+" clip-path="url(#p584fb825a1)" style="fill: #f8fafc; stroke: #3d7f73; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 208.344455 93.58308 
+Q 210.918742 93.58308 212.374996 93.58308 
+" clip-path="url(#p584fb825a1)" style="fill: none; stroke: #56636f; stroke-linecap: round"/>
+    <path d="M 208.374996 91.58308 
+L 212.374996 93.58308 
+L 208.374996 95.58308 
+z
+" clip-path="url(#p584fb825a1)" style="fill: #56636f; stroke: #56636f; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 221.589504 162.982368 
+L 300.842496 162.982368 
+Q 309.987072 162.982368 309.987072 157.711536 
+L 309.987072 29.454624 
+Q 309.987072 24.183792 300.842496 24.183792 
+L 221.589504 24.183792 
+Q 212.444928 24.183792 212.444928 29.454624 
+L 212.444928 157.711536 
+Q 212.444928 162.982368 221.589504 162.982368 
+z
+" clip-path="url(#p584fb825a1)" style="fill: #f8fafc; stroke: #557f55; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 308.934791 93.58308 
+Q 311.509078 93.58308 312.965332 93.58308 
+" clip-path="url(#p584fb825a1)" style="fill: none; stroke: #56636f; stroke-linecap: round"/>
+    <path d="M 308.965332 91.58308 
+L 312.965332 93.58308 
+L 308.965332 95.58308 
+z
+" clip-path="url(#p584fb825a1)" style="fill: #56636f; stroke: #56636f; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 322.17984 162.982368 
+L 401.432832 162.982368 
+Q 410.577408 162.982368 410.577408 157.711536 
+L 410.577408 29.454624 
+Q 410.577408 24.183792 401.432832 24.183792 
+L 322.17984 24.183792 
+Q 313.035264 24.183792 313.035264 29.454624 
+L 313.035264 157.711536 
+Q 313.035264 162.982368 322.17984 162.982368 
+z
+" clip-path="url(#p584fb825a1)" style="fill: #f8fafc; stroke: #a66a1f; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 409.525127 93.58308 
+Q 412.099414 93.58308 413.555668 93.58308 
+" clip-path="url(#p584fb825a1)" style="fill: none; stroke: #56636f; stroke-linecap: round"/>
+    <path d="M 409.555668 91.58308 
+L 413.555668 93.58308 
+L 409.555668 95.58308 
+z
+" clip-path="url(#p584fb825a1)" style="fill: #56636f; stroke: #56636f; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 422.770176 162.982368 
+L 502.023168 162.982368 
+Q 511.167744 162.982368 511.167744 157.711536 
+L 511.167744 29.454624 
+Q 511.167744 24.183792 502.023168 24.183792 
+L 422.770176 24.183792 
+Q 413.6256 24.183792 413.6256 29.454624 
+L 413.6256 157.711536 
+Q 413.6256 162.982368 422.770176 162.982368 
+z
+" clip-path="url(#p584fb825a1)" style="fill: #f8fafc; stroke: #9b4669; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 20.408832 280.111968 
+L 502.023168 280.111968 
+Q 511.167744 280.111968 511.167744 274.841136 
+L 511.167744 196.364304 
+Q 511.167744 191.093472 502.023168 191.093472 
+L 20.408832 191.093472 
+Q 11.264256 191.093472 11.264256 196.364304 
+L 11.264256 274.841136 
+Q 11.264256 280.111968 20.408832 280.111968 
+z
+" clip-path="url(#p584fb825a1)" style="fill: #f4f6f8; stroke: #6b7884; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 20.774615 59.322672 
+L 99.296041 59.322672 
+" clip-path="url(#p584fb825a1)" style="fill: none; stroke: #d6dee6; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 121.364951 59.322672 
+L 199.886377 59.322672 
+" clip-path="url(#p584fb825a1)" style="fill: none; stroke: #d6dee6; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 221.955287 59.322672 
+L 300.476713 59.322672 
+" clip-path="url(#p584fb825a1)" style="fill: none; stroke: #d6dee6; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 322.545623 59.322672 
+L 401.067049 59.322672 
+" clip-path="url(#p584fb825a1)" style="fill: none; stroke: #d6dee6; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 423.135959 59.322672 
+L 501.657385 59.322672 
+" clip-path="url(#p584fb825a1)" style="fill: none; stroke: #d6dee6; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 134.208 269.27748 
+L 134.208 215.10504 
+" clip-path="url(#p584fb825a1)" style="fill: none; stroke: #d6dee6; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 261.216 269.27748 
+L 261.216 215.10504 
+" clip-path="url(#p584fb825a1)" style="fill: none; stroke: #d6dee6; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 388.224 269.27748 
+L 388.224 215.10504 
+" clip-path="url(#p584fb825a1)" style="fill: none; stroke: #d6dee6; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 6.6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #2f6f9f" x="19.067628" y="45.61851" transform="rotate(-0 19.067628 45.61851)">1  Inputs</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 5.35px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #26323c" transform="translate(48.885176 103.464596)">Daily qtot</text>
+    <text style="font-size: 5.35px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #26323c" transform="translate(33.499328 109.492274)">7 GHMs × 3 scenarios</text>
+    <text style="font-size: 5.35px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #26323c" transform="translate(25.682476 115.457257)">1950–2019; native calendars</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 6.6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #3d7f73" x="119.657964" y="45.598916" transform="rotate(-0 119.657964 45.598916)">2  Common SRI reference</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 5.35px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #26323c" transform="translate(132.822383 100.417186)">30-day backward mean</text>
+    <text style="font-size: 5.35px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #26323c" transform="translate(128.811137 106.465194)">Fit 12 monthly distributions</text>
+    <text style="font-size: 5.35px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #26323c" transform="translate(130.745078 112.492872)">to factual obsclim-histsoc</text>
+    <text style="font-size: 5.35px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #26323c" transform="translate(133.565531 118.457854)">per model and grid cell</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 6.6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #557f55" x="220.2483" y="45.598916" transform="rotate(-0 220.2483 45.598916)">3  Events within models</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 5.35px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #26323c" transform="translate(236.834211 97.499614)">Use the same 12 fits</text>
+    <text style="font-size: 5.35px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #26323c" transform="translate(235.644672 103.464596)">for all three scenarios</text>
+    <text style="font-size: 5.35px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #26323c" transform="translate(228.952156 109.429579)">Detect events separately in</text>
+    <text style="font-size: 5.35px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #26323c" transform="translate(235.789707 115.457257)">each model–scenario</text>
+    <text style="font-size: 5.35px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #26323c" transform="translate(236.984262 121.422239)">No model-mean SRI</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 6.6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #a66a1f" x="320.838636" y="45.61851" transform="rotate(-0 320.838636 45.61851)">4  Frequency change</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 5.35px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #26323c" transform="translate(329.949176 100.409178)">Drought: SRI ≤ −0.5; ≥20 d</text>
+    <text style="font-size: 5.35px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #26323c" transform="translate(329.115328 106.436856)">Flood: SRI ≥ 0.5; reset 20 d</text>
+    <text style="font-size: 5.35px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #26323c" transform="translate(324.027813 112.401838)">P1: 1950–1984; P2: 1985–2019</text>
+    <!-- FR = (N$_2$ + 0.5)/(N$_1$ + 0.5) -->
+    <g style="fill: #26323c" transform="translate(330.883336 118.464191)">
+     <text>
+      <tspan x="0" y="-0.359375" style="font-size: 5.35px; font-family: 'Arial'; fill: #26323c">F</tspan>
+      <tspan x="3.283264" y="-0.359375" style="font-size: 5.35px; font-family: 'Arial'; fill: #26323c">R</tspan>
+      <tspan x="7.164917" y="-0.359375" style="font-size: 5.35px; font-family: 'Arial'; fill: #26323c"> </tspan>
+      <tspan x="8.658264" y="-0.359375" style="font-size: 5.35px; font-family: 'Arial'; fill: #26323c">=</tspan>
+      <tspan x="11.79718" y="-0.359375" style="font-size: 5.35px; font-family: 'Arial'; fill: #26323c"> </tspan>
+      <tspan x="13.290527" y="-0.359375" style="font-size: 5.35px; font-family: 'Arial'; fill: #26323c">(</tspan>
+      <tspan x="15.080444" y="-0.359375" style="font-size: 5.35px; font-family: 'Arial'; fill: #26323c">N</tspan>
+      <tspan x="21.540485" y="-0.359375" style="font-size: 5.35px; font-family: 'Arial'; fill: #26323c"> </tspan>
+      <tspan x="23.033832" y="-0.359375" style="font-size: 5.35px; font-family: 'Arial'; fill: #26323c">+</tspan>
+      <tspan x="26.172748" y="-0.359375" style="font-size: 5.35px; font-family: 'Arial'; fill: #26323c"> </tspan>
+      <tspan x="27.666095" y="-0.359375" style="font-size: 5.35px; font-family: 'Arial'; fill: #26323c">0</tspan>
+      <tspan x="30.655414" y="-0.359375" style="font-size: 5.35px; font-family: 'Arial'; fill: #26323c">.</tspan>
+      <tspan x="32.148761" y="-0.359375" style="font-size: 5.35px; font-family: 'Arial'; fill: #26323c">5</tspan>
+      <tspan x="35.13808" y="-0.359375" style="font-size: 5.35px; font-family: 'Arial'; fill: #26323c">)</tspan>
+      <tspan x="36.927997" y="-0.359375" style="font-size: 5.35px; font-family: 'Arial'; fill: #26323c">/</tspan>
+      <tspan x="38.421344" y="-0.359375" style="font-size: 5.35px; font-family: 'Arial'; fill: #26323c">(</tspan>
+      <tspan x="40.211261" y="-0.359375" style="font-size: 5.35px; font-family: 'Arial'; fill: #26323c">N</tspan>
+      <tspan x="46.671301" y="-0.359375" style="font-size: 5.35px; font-family: 'Arial'; fill: #26323c"> </tspan>
+      <tspan x="48.164648" y="-0.359375" style="font-size: 5.35px; font-family: 'Arial'; fill: #26323c">+</tspan>
+      <tspan x="51.303564" y="-0.359375" style="font-size: 5.35px; font-family: 'Arial'; fill: #26323c"> </tspan>
+      <tspan x="52.796912" y="-0.359375" style="font-size: 5.35px; font-family: 'Arial'; fill: #26323c">0</tspan>
+      <tspan x="55.78623" y="-0.359375" style="font-size: 5.35px; font-family: 'Arial'; fill: #26323c">.</tspan>
+      <tspan x="57.279578" y="-0.359375" style="font-size: 5.35px; font-family: 'Arial'; fill: #26323c">5</tspan>
+      <tspan x="60.268896" y="-0.359375" style="font-size: 5.35px; font-family: 'Arial'; fill: #26323c">)</tspan>
+      <tspan x="19.009949" y="0.460938" style="font-size: 3.745px; font-family: 'DejaVu Sans'; fill: #26323c">2</tspan>
+      <tspan x="44.140765" y="0.460938" style="font-size: 3.745px; font-family: 'DejaVu Sans'; fill: #26323c">1</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 6.6px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #9b4669" x="421.428972" y="45.598916" transform="rotate(-0 421.428972 45.598916)">5  Paired attribution</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 5.35px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #26323c" transform="translate(433.699356 100.440375)">ΔHA = FRhist − FR1901</text>
+    <text style="font-size: 5.35px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #26323c" transform="translate(435.042289 106.405358)">ΔCC = FRobs − FRhist</text>
+    <text style="font-size: 5.35px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #26323c" transform="translate(438.004434 112.37034)">ΔTotal = ΔCC + ΔHA</text>
+    <text style="font-size: 5.35px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #26323c" transform="translate(436.47425 118.418783)">Basin DIndex from |Δ|</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #56636f" x="27.52128" y="211.473945" transform="rotate(-0 27.52128 211.473945)">QUALITY CONTROL AND ROBUSTNESS</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 6.7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2f6f9f" x="73.24416" y="233.077854" transform="rotate(-0 73.24416 233.077854)">QC</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #26323c" transform="translate(39.718801 244.217299)">Exclude failed monthly fits</text>
+    <text style="font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #26323c" transform="translate(47.615863 250.715791)">or internal SRI gaps</text>
+    <text style="font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #26323c" transform="translate(34.889394 257.218814)">retain every grid-level QC row</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 6.7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2f6f9f" x="195.17184" y="233.077854" transform="rotate(-0 195.17184 233.077854)">Calibration</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #26323c" transform="translate(150.04784 244.217299)">Primary: factual common reference</text>
+    <text style="font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #26323c" transform="translate(154.399199 250.715791)">Sensitivity: scenario-specific fits</text>
+    <text style="font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #26323c" transform="translate(155.520684 257.125924)">compare grid and basin results</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 6.7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2f6f9f" x="322.17984" y="233.077854" transform="rotate(-0 322.17984 233.077854)">Definitions</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #26323c" transform="translate(290.908324 244.146611)">Thresholds: 0.5, 0.8, 1.0</text>
+    <text style="font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #26323c" transform="translate(287.520309 250.488775)">duration/reset: 10, 20, 30 d</text>
+    <text style="font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #26323c" transform="translate(284.940215 256.852463)">split years: 1980, 1985, 1990</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 6.7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2f6f9f" x="444.10752" y="233.077854" transform="rotate(-0 444.10752 233.077854)">Aggregation</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #26323c" transform="translate(406.552973 244.146611)">paired contrasts within model</text>
+    <text style="font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #26323c" transform="translate(407.517223 250.577135)">cos(latitude) basin weighting</text>
+    <text style="font-size: 5.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #26323c" transform="translate(402.681926 257.080158)">equal model weights and LOMO</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #26323c" x="261.216" y="24.000559" transform="rotate(-0 261.216 24.000559)">Common-reference workflow for runoff-extreme frequency attribution</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p584fb825a1">
+   <rect x="7.2" y="7.2" width="508.032" height="292.824"/>
+  </clipPath>
+ </defs>
+</svg>

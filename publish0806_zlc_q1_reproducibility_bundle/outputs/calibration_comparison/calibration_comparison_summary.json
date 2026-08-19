@@ -1,0 +1,12 @@
+{
+  "paired_grid_model_rows": 53522,
+  "basin_event_rows": 10,
+  "basin_dominance_stable_count": 10,
+  "basin_dominance_total_count": 10,
+  "max_abs_basin_dindex_difference": 0.07371962576224489,
+  "max_abs_lomo_dindex_difference": 0.08528014290138997,
+  "factual_files_checked": 7,
+  "max_abs_factual_identity_difference": 0.0,
+  "factual_nan_mismatch_count": 0,
+  "factual_text_mismatch_count": 0
+}
